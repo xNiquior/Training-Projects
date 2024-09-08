@@ -1,0 +1,14 @@
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\bin\Debug\net8.0\RomanNumbers.exe
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\bin\Debug\net8.0\RomanNumbers.deps.json
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\bin\Debug\net8.0\RomanNumbers.runtimeconfig.json
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\bin\Debug\net8.0\RomanNumbers.dll
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\bin\Debug\net8.0\RomanNumbers.pdb
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\obj\Debug\net8.0\RomanNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\obj\Debug\net8.0\RomanNumbers.AssemblyInfoInputs.cache
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\obj\Debug\net8.0\RomanNumbers.AssemblyInfo.cs
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\obj\Debug\net8.0\RomanNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\obj\Debug\net8.0\RomanNumbers.dll
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\obj\Debug\net8.0\refint\RomanNumbers.dll
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\obj\Debug\net8.0\RomanNumbers.pdb
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\obj\Debug\net8.0\RomanNumbers.genruntimeconfig.cache
+C:\Users\Nika\source\repos\RomanNumbers\RomanNumbers\obj\Debug\net8.0\ref\RomanNumbers.dll
