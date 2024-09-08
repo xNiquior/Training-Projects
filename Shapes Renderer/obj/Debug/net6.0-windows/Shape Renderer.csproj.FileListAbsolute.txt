@@ -1,0 +1,49 @@
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.csproj.GenerateResource.cache
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.AssemblyInfoInputs.cache
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.AssemblyInfo.cs
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.csproj.CoreCompileInputs.cache
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.exe
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.deps.json
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.runtimeconfig.json
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.dll
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.pdb
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.dll
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\refint\Shape Renderer.dll
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.pdb
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.genruntimeconfig.cache
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\ref\Shape Renderer.dll
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\Shapes Renderer\obj\Debug\net6.0-windows\Shape_Renderer.Form1.resources
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.exe
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.deps.json
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.runtimeconfig.json
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.dll
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.pdb
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.csproj.AssemblyReference.cache
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape_Renderer.Form1.resources
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.csproj.GenerateResource.cache
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.AssemblyInfoInputs.cache
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.AssemblyInfo.cs
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.dll
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\refint\Shape Renderer.dll
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.pdb
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.genruntimeconfig.cache
+C:\Users\Ольга\OpenVPN\config\Shapes Renderer\Shapes Renderer\obj\Debug\net6.0-windows\ref\Shape Renderer.dll
+C:\Users\Nika\Desktop\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.exe
+C:\Users\Nika\Desktop\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.deps.json
+C:\Users\Nika\Desktop\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.runtimeconfig.json
+C:\Users\Nika\Desktop\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.dll
+C:\Users\Nika\Desktop\Shapes Renderer\bin\Debug\net6.0-windows\Shape Renderer.pdb
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\Shape_Renderer.Form1.resources
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.csproj.GenerateResource.cache
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.AssemblyInfoInputs.cache
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.AssemblyInfo.cs
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.csproj.CoreCompileInputs.cache
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.dll
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\refint\Shape Renderer.dll
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.pdb
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\Shape Renderer.genruntimeconfig.cache
+C:\Users\Nika\Desktop\Shapes Renderer\obj\Debug\net6.0-windows\ref\Shape Renderer.dll
