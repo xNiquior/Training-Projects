@@ -1,0 +1,14 @@
+C:\Users\Nika\source\repos\Date_Class\Date_Class\obj\Debug\net8.0\Date_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nika\source\repos\Date_Class\Date_Class\obj\Debug\net8.0\Date_Class.AssemblyInfoInputs.cache
+C:\Users\Nika\source\repos\Date_Class\Date_Class\obj\Debug\net8.0\Date_Class.AssemblyInfo.cs
+C:\Users\Nika\source\repos\Date_Class\Date_Class\obj\Debug\net8.0\Date_Class.csproj.CoreCompileInputs.cache
+C:\Users\Nika\source\repos\Date_Class\Date_Class\bin\Debug\net8.0\Date_Class.exe
+C:\Users\Nika\source\repos\Date_Class\Date_Class\bin\Debug\net8.0\Date_Class.deps.json
+C:\Users\Nika\source\repos\Date_Class\Date_Class\bin\Debug\net8.0\Date_Class.runtimeconfig.json
+C:\Users\Nika\source\repos\Date_Class\Date_Class\bin\Debug\net8.0\Date_Class.dll
+C:\Users\Nika\source\repos\Date_Class\Date_Class\bin\Debug\net8.0\Date_Class.pdb
+C:\Users\Nika\source\repos\Date_Class\Date_Class\obj\Debug\net8.0\Date_Class.dll
+C:\Users\Nika\source\repos\Date_Class\Date_Class\obj\Debug\net8.0\refint\Date_Class.dll
+C:\Users\Nika\source\repos\Date_Class\Date_Class\obj\Debug\net8.0\Date_Class.pdb
+C:\Users\Nika\source\repos\Date_Class\Date_Class\obj\Debug\net8.0\Date_Class.genruntimeconfig.cache
+C:\Users\Nika\source\repos\Date_Class\Date_Class\obj\Debug\net8.0\ref\Date_Class.dll
