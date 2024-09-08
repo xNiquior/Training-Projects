@@ -1,0 +1,17 @@
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\bin\Debug\net8.0-windows\XML Parser.exe
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\bin\Debug\net8.0-windows\XML Parser.deps.json
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\bin\Debug\net8.0-windows\XML Parser.runtimeconfig.json
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\bin\Debug\net8.0-windows\XML Parser.dll
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\bin\Debug\net8.0-windows\XML Parser.pdb
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\LB_XML.Form1.resources
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\XML_Parser.Properties.Resources.resources
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\XML Parser.csproj.GenerateResource.cache
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\XML Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\XML Parser.AssemblyInfoInputs.cache
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\XML Parser.AssemblyInfo.cs
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\XML Parser.csproj.CoreCompileInputs.cache
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\XML Parser.dll
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\refint\XML Parser.dll
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\XML Parser.pdb
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\XML Parser.genruntimeconfig.cache
+C:\Users\Nika\source\repos\VisualStudioProjects\C#\LB_XML\LB_XML\obj\Debug\net8.0-windows\ref\XML Parser.dll
